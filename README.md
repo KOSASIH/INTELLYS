@@ -1,2 +1,2 @@
-# INTELYS
-Open source intelligent system to make data driven decision
+# INTELLYS
+Intelligent investigative technology system
